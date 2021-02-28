@@ -1,0 +1,12 @@
+---
+title: "Ivonne"
+output: html_document
+---
+
+## This is me !
+
+* I am a behavioral biologist and wildlife conservationist
+* Working in Central Africa for more than 5 years
+* Currently managing the Dzanga Bai Elephant Program in Central African Republic
+
+* I like turtles

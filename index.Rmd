@@ -1,0 +1,9 @@
+---
+title: "How about making this website cool?"
+author: "Ivonne Kienast and Brett Hayhurst"
+output: html_document
+---
+Ivonne https://github.com/IvonneKi
+Brett https://github.com/BHayhurst
+
+![](C:/Users/ivonn/OneDrive/Bilder/IK_Forest.jpg)
