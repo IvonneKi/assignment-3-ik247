@@ -10,3 +10,5 @@ output: html_document
 * Currently managing the Dzanga Bai Elephant Program in Central African Republic
 
 * I like turtles
+
+![](https://www.theregreview.org/wp-content/uploads/2017/04/sea-turtle.jpg)
