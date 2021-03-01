@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 * I enjoy playing music and often times play guitar when I should just go to bed.  
 * I live to love and love to live.  
 * I am in the Department of Natural Resources and Environment.  
+
+ 
