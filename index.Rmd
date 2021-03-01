@@ -6,4 +6,4 @@ output: html_document
 Ivonne https://github.com/IvonneKi
 Brett https://github.com/BHayhurst
 
-![](C:/Users/ivonn/OneDrive/Bilder/IK_Forest.jpg)
+![](C:/Users/ivonn/OneDrive/Dokumente/Cornell Classes/R course - NTRES6100/github/assignment-3-ik247/IK_Forest.jpg)
