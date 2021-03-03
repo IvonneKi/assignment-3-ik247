@@ -7,6 +7,9 @@ navbar:
       href: ivonne.html
     - text: "Brett"
       href: brett.html  
+    - text: "Meet the cuties"
+      href: pets.html  
+      
 output:
   html_document:
     theme: cosmo
