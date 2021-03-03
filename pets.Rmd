@@ -1,0 +1,19 @@
+---
+title: "Meet the cuties"
+output: html_document
+---
+### This is Rocky Big Ears
+
+![](C:/Users/ivonn/OneDrive/Dokumente/Cornell Classes/R course - NTRES6100/github/assignment-3-ik247/Rocky.JPG)
+
+### This is old Pandora
+
+![](C:/Users/ivonn/OneDrive/Dokumente/Cornell Classes/R course - NTRES6100/github/assignment-3-ik247/Pandi.JPG)
+
+### This is lazy Epopea
+
+![](C:/Users/ivonn/OneDrive/Dokumente/Cornell Classes/R course - NTRES6100/github/assignment-3-ik247/Epopea.JPG)
+
+### These are Penelope and Loqui
+
+![](C:/Users/ivonn/OneDrive/Dokumente/Cornell Classes/R course - NTRES6100/github/assignment-3-ik247/LoquiPenelope.JPG)

@@ -7,10 +7,9 @@ navbar:
       href: ivonne.html
     - text: "Brett"
       href: brett.html  
-output_dir: "."
 output:
   html_document:
-    theme: superhero
+    theme: cosmo
     highlight: textmate
     toc: true 
     toc_float: true 
